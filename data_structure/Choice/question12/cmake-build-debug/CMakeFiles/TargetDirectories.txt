@@ -1,0 +1,3 @@
+/cygdrive/f/data_structure/Choice/question12/cmake-build-debug/CMakeFiles/question12.dir
+/cygdrive/f/data_structure/Choice/question12/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/f/data_structure/Choice/question12/cmake-build-debug/CMakeFiles/rebuild_cache.dir

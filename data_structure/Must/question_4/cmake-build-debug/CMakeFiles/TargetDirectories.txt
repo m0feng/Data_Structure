@@ -1,0 +1,4 @@
+/cygdrive/f/data_structure/Must/question_4/cmake-build-debug/CMakeFiles/question_4.dir
+/cygdrive/f/data_structure/Must/question_4/cmake-build-debug/CMakeFiles/5.dir
+/cygdrive/f/data_structure/Must/question_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/f/data_structure/Must/question_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
